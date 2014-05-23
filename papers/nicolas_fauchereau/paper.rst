@@ -1,16 +1,6 @@
-:author: Gaius Caesar
-:email: jj@rome.it
-:institution: Senate House, S.P.Q.R.
-
-:author: Mark Anthony
-:email: mark37@rome.it
-:institution: Egyptian Embassy, S.P.Q.R.
-
-:author: Jarrod Millman
-:email: millman@rome.it
-:institution: Egyptian Embassy, S.P.Q.R.
-
-.. :video: http://www.youtube.com/watch?v=dhRUe-gz690
+:author: Nicolas Fauchereau
+:email: Nicolas.Fauchereau@niwa.co.nz
+:institution: NIWA
 
 ------------------------------------------------
 A Numerical Perspective to Terraforming a Desert
